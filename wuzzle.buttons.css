@@ -28,7 +28,8 @@ display: inline-block;
 color: #FFFFFF;
 text-decoration: none;
 border: 0;
-border-bottom:1px solid #A5FFA5;
+/*border-bottom:1px solid #A5FFA5;*/
+border-bottom: 1px solid #ff78fb;
 outline: 0;
 cursor: pointer;
 overflow: hidden;
