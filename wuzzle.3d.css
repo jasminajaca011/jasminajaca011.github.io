@@ -188,7 +188,8 @@ color: rgb(255, 179, 179);
 }
 
 .controls code {
-	color: #A5FFA5;
+	/*color: #A5FFA5;*/
+	color: violet;
 	background: #222;
 	padding: 1%;
 	width: 98%;
