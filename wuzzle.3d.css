@@ -211,3 +211,8 @@ body > div.controls > p > code > a {
 	    color: #ff9ef8;
 
 }
+
+body > div.controls > p > code > a:hover {
+	    color: yellow;
+
+}
