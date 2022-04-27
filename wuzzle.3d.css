@@ -180,7 +180,8 @@ box-shadow: inset 3px 4px 33px 10px #5D5555;
 width: 96%;
 margin: 0 auto;
 padding: 1px 20px;
-border: 1px solid #A5FFA5;
+border: 1px solid violet;
+	/*border: 1px solid #A5FFA5;*/
 -webkit-border-radius: 0px;
 background-color: rgba(73, 73, 73, 0.23);
 color: rgb(255, 179, 179);
