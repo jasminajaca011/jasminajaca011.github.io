@@ -70,4 +70,6 @@ background: #87C0EC;
 .c {
 background:#BEBEBE;
 }
-
+html body div.controls p code a {
+    color: orangered;
+}
