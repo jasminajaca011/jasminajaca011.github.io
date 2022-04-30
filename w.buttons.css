@@ -26,7 +26,7 @@ background: url('bg.png');
     font-family: 'Open Sans Condensed','Arial Narrow',arial,verdana,trebuchet,sans-serif;
     position: relative;
     display: inline-block;
-    color: #FFFFFF;
+    color: orangered;
     text-decoration: none;
     border: 0;
     border-bottom: 1px solid #A5FFA5;
@@ -50,7 +50,7 @@ background-image: linear-gradient(top, rgba(98,141,196,1), rgba(77,164,199,0));
 top: 0px;
 }
 .button:hover {
-background-color: yellow;
+background-color: red;
 color: #fff !important;
 }
 
@@ -60,7 +60,6 @@ position: relative;
 display: inline-block;
 color: #fff;
 text-decoration: none;
-
 border: 0;
 outline: 0;
 cursor: pointer;
