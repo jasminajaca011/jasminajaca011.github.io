@@ -1,15 +1,15 @@
 /*buttons*/
 a {
-color: #3B95C6;
-text-decoration: underline;
--moz-transition: color .2s ease-in-out;
--webkit-transition: color .2s ease-in-out;
--o-transition: color .2s ease-in-out;
--ms-transition: color .2s ease-in-out;
-transition: color .2s ease-in-out;
+    color: #ffdd38;
+    text-decoration: underline;
+    -moz-transition: color .2s ease-in-out;
+    -webkit-transition: color .2s ease-in-out;
+    -o-transition: color .2s ease-in-out;
+    -ms-transition: color .2s ease-in-out;
+    transition: color .2s ease-in-out;
 }
 a:hover {
-color: #1B75A6 !important;
+color: yellow !important;
 }
 .button:before {
 content: '';
@@ -48,7 +48,7 @@ background-image: linear-gradient(top, rgba(98,141,196,1), rgba(77,164,199,0));
 top: 0px;
 }
 .button:hover {
-background-color: #59DF64;
+background-color: yellow;
 color: #fff !important;
 }
 
