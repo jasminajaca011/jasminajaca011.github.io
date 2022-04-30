@@ -75,4 +75,9 @@ background:#BEBEBE;
 html body div.controls p code a {
     color: orangered !important;
 }
+html body div.controls p code a:hover {
+    color: yellow !important;
+}
 html body div.controls p code {color: orangered;}
+
+
