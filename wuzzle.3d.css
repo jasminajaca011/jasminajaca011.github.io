@@ -170,10 +170,13 @@ body {
     .ring > .twelve {
       -webkit-transform: rotateY(330deg) translateZ(380px);
     }
-.h3 {background:#fff;padding:3px;border-bottom: 1px solid #A5FFA5;
--moz-box-shadow: inset 3px 4px 33px 10px #5D5555;
--webkit-box-shadow: inset 3px 4px 33px 10px #5D5555;
-box-shadow: inset 3px 4px 33px 10px #5D5555;
+.h3 {
+    background: #27ff00;
+    padding: 3px;
+    border-bottom: 1px solid #39ff39;
+    -moz-box-shadow: inset 3px 4px 33px 10px #5D5555;
+    -webkit-box-shadow: inset 3px 4px 33px 10px #0b680d;
+    box-shadow: inset 3px 4px 33px 10px #12700c;
 }
 
 .controls {
