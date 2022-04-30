@@ -42,13 +42,13 @@ body {
       position: absolute;
       height: 200px;
       width: 200px;
-      border: 1px solid orangered;
+      border: 1px solid violet;
       -webkit-border-radius: 0px;
       -webkit-box-sizing: border-box;
       text-align: center;
       font-family: Times, serif;
       font-size: 124pt;
-      color: orangered;
+      color: violet;
       background-color: rgba(85, 102, 92, 0.6);
       -webkit-transition: -webkit-transform 2s, opacity 2s;
       -webkit-backface-visibility: hidden;
@@ -171,29 +171,29 @@ body {
     .ring > .twelve {
       -webkit-transform: rotateY(330deg) translateZ(380px);
     }
-.h3 {background:#fff;padding:3px;border-bottom: 1px solid orangered;
--moz-box-shadow: inset 3px 4px 33px 10px orangered;
--webkit-box-shadow: inset 3px 4px 33px 10px orangered;
-box-shadow: inset 3px 4px 33px 10px orangered;
+.h3 {background:#fff;padding:3px;border-bottom: 1px solid violet;
+-moz-box-shadow: inset 3px 4px 33px 10px violet;
+-webkit-box-shadow: inset 3px 4px 33px 10px violet;
+box-shadow: inset 3px 4px 33px 10px violet;
 }
 
 .controls {
 width: 96%;
 margin: 0 auto;
 padding: 1px 20px;
-border: 1px solid orangered;
+border: 1px solid violet;
 -webkit-border-radius: 0px;
 background-color: rgba(73, 73, 73, 0.23);
 color: rgb(255, 179, 179);
 }
 
 .controls code {
-  color: orangered;
+  color: violet;
   background: #111;
   padding: 1%;
   width: 98%;
   float: left;
-  border-bottom: 1px solid orangered;
+  border-bottom: 1px solid violet;
   margin-bottom: 2%;
   -moz-box-shadow: inset 3px 4px 33px 10px #5D5555;
   -webkit-box-shadow: inset 3px 4px 33px 10px #5D5555;
