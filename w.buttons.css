@@ -23,22 +23,25 @@ height: 100%;
 background: url('bg.png');
 }
 .button {
-    font-family: 'Open Sans Condensed','Arial Narrow',arial,verdana,trebuchet,sans-serif;
-    position: relative;
-    display: inline-block;
-    color: orangered;
-    text-decoration: none;
-    border: 0;
-    border-bottom: 1px solid orangered;
-    outline: 0;
-    cursor: pointer;
-    overflow: hidden;
-    background: #222;
-    -moz-box-shadow: inset 3px 4px 33px 10px orangered;
-    -webkit-box-shadow: inset 3px 4px 33px 10px orangered;
-    box-shadow: inset 3px 4px 33px 10px orangered;
-    padding: 0.7em 1em 0.7em 1em;
-    font-size: 1.3em;
+  font-family: 'Open Sans Condensed','Arial Narrow',arial,verdana,trebuchet,sans-serif;
+  position: relative;
+  display: inline-block;
+  color: orangered;
+  text-decoration: none;
+  border: 0;
+    border-bottom-color: currentcolor;
+    border-bottom-style: none;
+    border-bottom-width: 0px;
+  border-bottom: 1px solid orangered;
+  outline: 0;
+  cursor: pointer;
+  overflow: hidden;
+  background: #222;
+  -moz-box-shadow: inset 3px 4px 33px 10px #444;
+  -webkit-box-shadow: inset 3px 4px 33px 10px #444;
+  box-shadow: inset 3px 4px 33px 10px #444;
+  padding: 0.7em 1em 0.7em 1em;
+  font-size: 1.3em;
 }
 
 .button:active {
