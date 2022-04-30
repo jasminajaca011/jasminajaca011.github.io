@@ -195,9 +195,9 @@ color: rgb(255, 179, 179);
   float: left;
   border-bottom: 1px solid orangered;
   margin-bottom: 2%;
-  -moz-box-shadow: inset 3px 4px 33px 10px orangered;
-  -webkit-box-shadow: inset 3px 4px 33px 10px orangered;
-  box-shadow: inset 3px 4px 33px 10px orangered;
+  -moz-box-shadow: inset 3px 4px 33px 10px #5D5555;
+  -webkit-box-shadow: inset 3px 4px 33px 10px #5D5555;
+  box-shadow: inset 3px 4px 33px 10px #5D5555;
 }
     .controls > div {
       margin-bottom: 10px;
