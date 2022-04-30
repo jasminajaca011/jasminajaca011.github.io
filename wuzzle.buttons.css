@@ -70,3 +70,9 @@ background: #87C0EC;
 background:#BEBEBE;
 }
 
+body > div.controls > p:nth-child(2) {
+  
+}
+body > div.controls > p:nth-child(2) > a {
+  color: #17f118;
+}
