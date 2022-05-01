@@ -1,6 +1,6 @@
 /*buttons*/
 a {
-    color: violet;
+    color: lightblue;
     text-decoration: underline;
     -moz-transition: color .2s ease-in-out;
     -webkit-transition: color .2s ease-in-out;
@@ -29,7 +29,7 @@ background: url('bg.png');
     color: #dc6ff7;
     text-decoration: none;
     border: 0;
-    border-bottom: 1px solid violet;
+    border-bottom: 1px solid lightblue;
     outline: 0;
     cursor: pointer;
     overflow: hidden;
@@ -50,7 +50,7 @@ background-image: linear-gradient(top, rgba(98,141,196,1), rgba(77,164,199,0));
 top: 0px;
 }
 .button:hover {
-background-color: violet;
+background-color: lightblue;
 color: yellow !important;
 }
 
@@ -70,9 +70,9 @@ background: #87C0EC;
 background:#BEBEBE;
 }
 html body div.controls p code a {
-    color: violet !important;
+    color: lightblue !important;
 }
 html body div.controls p code a:hover {
     color: yellow !important;
 }
-html body div.controls p code {color: violet;}
+html body div.controls p code {color: lightblue;}
